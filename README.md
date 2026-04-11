@@ -1,6 +1,6 @@
 # Hola 👋 Soy Andy Vallejos
 
-💻 Desarrollador Fullstack en formación
+💻 Desarrollador Frontend en formación
 🎓 Estudiante de Ingeniería Informática
 🚀 Apasionado por construir aplicaciones web modernas y escalables
 
