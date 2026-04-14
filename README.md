@@ -83,5 +83,5 @@ Mi objetivo es seguir creciendo como **desarrollador frontend** y contribuir en 
 ## 📫 Contacto
 
 📧 andyvallejosgb@gmail.com
-🌐 [Portfolio](https://www.linkedin.com/in/andy-vallejos-99aa511b2/)
+🌐 [Portfolio](https://www.andyvallejos.site/)
 💼 [LinkedIn](https://www.linkedin.com/in/andy-vallejos-99aa511b2/)
