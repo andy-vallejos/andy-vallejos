@@ -13,7 +13,7 @@ Actualmente curso la carrera de Ingeniería Informática y sigo desarrollando pr
 
 Trabajo principalmente con tecnologías modernas del ecosistema web, enfocándome en crear interfaces limpias, funcionales y escalables.
 
-Mi objetivo es seguir creciendo como **desarrollador Fullstack** y contribuir en proyectos de alto impacto.
+Mi objetivo es seguir creciendo como **desarrollador frontend** y contribuir en proyectos de alto impacto.
 
 ---
 
@@ -65,13 +65,18 @@ Mi objetivo es seguir creciendo como **desarrollador Fullstack** y contribuir en
 ## 📊 Estadísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=andy-vallejos&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <a href="https://github.com/andy-vallejos">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andy-vallejos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&border_radius=10">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andy-vallejos&layout=compact&langs_count=8&theme=algolia&border_radius=10">
+  </a>
+<p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=andy-vallejos&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andy-vallejos&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andy-vallejos&radius=16&theme=github-dark&area=true&order=5&hide_border=false" height="300" alt="activity graph" />
+</div>
 
 ---
 
