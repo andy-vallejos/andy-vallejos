@@ -1,8 +1,10 @@
-# Hola 👋 Soy Andy Vallejos
 
-💻 Desarrollador Frontend en formación
-🎓 Estudiante de Ingeniería Informática
-🚀 Apasionado por construir aplicaciones web modernas y escalables
+<img width="908" height="332" alt="image" src="https://github.com/user-attachments/assets/ea6206e3-3fb1-40e1-993f-161a96742fcf" />
+
+
+<p>💻 Desarrollador Frontend en formación</p>
+<p>🎓 Estudiante de Ingeniería Informática</p>
+<p>🚀 Apasionado por construir aplicaciones web modernas y escalables</p>
 
 ---
 
@@ -70,7 +72,7 @@ Mi objetivo es seguir creciendo como **desarrollador frontend** y contribuir en 
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andy-vallejos&layout=compact&langs_count=8&theme=algolia&border_radius=10">
   </a>
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=andy-vallejos&theme=tokyonight&hide_border=true" />
+  <img height="330em" src="https://streak-stats.demolab.com?user=andy-vallejos&theme=tokyonight&hide_border=true" />
 </p>
 </p>
 
