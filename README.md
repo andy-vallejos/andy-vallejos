@@ -1,5 +1,4 @@
-
-<img width="908" height="332" alt="image" src="https://github.com/user-attachments/assets/ea6206e3-3fb1-40e1-993f-161a96742fcf" />
+# Hola, soy Andy
 
 
 <p>💻 Desarrollador Frontend en formación</p>
