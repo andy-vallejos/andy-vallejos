@@ -4,7 +4,6 @@
 💼 [LinkedIn](https://www.linkedin.com/in/andy-vallejos-99aa511b2/)
 
 <p>🎓 Estudiante de Ingeniería Informática</p>
-<p>🚀 Apasionado por construir aplicaciones web modernas y escalables</p>
 
 ---
 
@@ -60,8 +59,7 @@ Mi objetivo es seguir creciendo como desarrollador frontend y poder aportar en p
 ## 📌 Proyectos Destacados
 
 🔹 Portfolio personal – sitio web donde presento mis proyectos y habilidades
-🔹 API REST con Node.js
-🔹 Aplicación web desarrollada con React
+🔹 Storybyte - proyecto de postulacion a la SCESI
 
 ---
 
