@@ -1,7 +1,5 @@
 # Hola, soy Andy
 
-
-<p>💻 Desarrollador Frontend en formación</p>
 <p>🎓 Estudiante de Ingeniería Informática</p>
 <p>🚀 Apasionado por construir aplicaciones web modernas y escalables</p>
 
@@ -81,8 +79,8 @@ Mi objetivo es seguir creciendo como **desarrollador frontend** y contribuir en 
 
 ---
 
-## 📫 Contacto
+## 📫 Contacto ://
 
-📧 andyvallejosgb@gmail.com
+📧 <andyvallejosgb@gmail.com>
 🌐 [Portfolio](https://www.andyvallejos.site/)
 💼 [LinkedIn](https://www.linkedin.com/in/andy-vallejos-99aa511b2/)
