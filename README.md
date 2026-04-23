@@ -10,12 +10,13 @@
 
 ## 👨‍💻 Sobre mí
 
-Mi camino en la programación comenzó hace 5 años como una curiosidad que, hace 2, se transformó en mi enfoque profesional.
-Actualmente curso la carrera de Ingeniería Informática y sigo desarrollando proyectos para mejorar mis habilidades como desarrollador.
+Empecé en la programación hace unos 5 años, más que nada por curiosidad. Con el tiempo, hace alrededor de 2 años, se volvió algo mucho más serio y pasó a ser el camino que quiero seguir profesionalmente.
 
-Trabajo principalmente con tecnologías modernas del ecosistema web, enfocándome en crear interfaces limpias, funcionales y escalables.
+Ahora estoy estudiando Ingeniería Informática y sigo creando proyectos por mi cuenta para mejorar y aprender constantemente.
 
-Mi objetivo es seguir creciendo como **desarrollador frontend** y contribuir en proyectos de alto impacto.
+Trabajo sobre todo con tecnologías modernas del desarrollo web, tratando de hacer interfaces que no solo se vean bien, sino que también sean claras y fáciles de usar.
+
+Mi objetivo es seguir creciendo como desarrollador frontend y poder aportar en proyectos que realmente tengan impacto.
 
 ---
 
