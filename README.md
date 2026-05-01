@@ -65,18 +65,25 @@ Mi objetivo es seguir creciendo como desarrollador frontend y poder aportar en p
 
 ## 📊 Estadísticas
 
-<p align="center">
-  <a href="https://github.com/andy-vallejos">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andy-vallejos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&border_radius=10">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andy-vallejos&layout=compact&langs_count=8&theme=algolia&border_radius=10">
-  </a>
-<p align="center">
-  <img height="330em" src="https://streak-stats.demolab.com?user=andy-vallejos&theme=tokyonight&hide_border=true" />
-</p>
-</p>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andy-vallejos&radius=16&theme=github-dark&area=true&order=5&hide_border=false" height="300" alt="activity graph" />
-</div>
+  
+  <a href="https://github.com/andy-vallejos">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andy-vallejos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6ad3f7&icon_color=6ad3f7&text_color=c9d1d9"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andy-vallejos&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6ad3f7&text_color=c9d1d9"/>
+  </a>
+
+<br/><br/>
+
+  <a href="https://github.com/andy-vallejos">
+    <img width="85%" src="https://github-readme-streak-stats-eight.vercel.app/?user=andy-vallejos&theme=tokyonight&hide_border=true&background=0D1117&stroke=6ad3f7&ring=6ad3f7&fire=ff6b6b&currStreakLabel=6ad3f7&sideLabels=6ad3f7&dates=8b949e" alt="GitHub Streak"/>
+  </a>
+
+<br/><br/>
+
+  <a href="https://github.com/andy-vallejos">
+    <img src="https://github-trophies.vercel.app/?username=andy-vallejos&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  </a>
+
+<br/><br/>
 
 ---
